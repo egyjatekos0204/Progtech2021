@@ -1,0 +1,17 @@
+C:\Users\Bence-Laptop\source\repos\storageManagerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Bence-Laptop\source\repos\storageManagerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Bence-Laptop\source\repos\storageManagerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Bence-Laptop\source\repos\storageManagerUnitTest\bin\Debug\storageManagerUnitTest.dll
+C:\Users\Bence-Laptop\source\repos\storageManagerUnitTest\bin\Debug\storageManagerUnitTest.pdb
+C:\Users\Bence-Laptop\source\repos\storageManagerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Bence-Laptop\source\repos\storageManagerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Bence-Laptop\source\repos\storageManagerUnitTest\bin\Debug\storageManager.exe
+C:\Users\Bence-Laptop\source\repos\storageManagerUnitTest\bin\Debug\storageManager.pdb
+C:\Users\Bence-Laptop\source\repos\storageManagerUnitTest\bin\Debug\storageManager.exe.config
+C:\Users\Bence-Laptop\source\repos\storageManagerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Bence-Laptop\source\repos\storageManagerUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Bence-Laptop\source\repos\storageManagerUnitTest\obj\Debug\storageManagerUnitTest.csproj.AssemblyReference.cache
+C:\Users\Bence-Laptop\source\repos\storageManagerUnitTest\obj\Debug\storageManagerUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Bence-Laptop\source\repos\storageManagerUnitTest\obj\Debug\storageManagerUnitTest.csproj.CopyComplete
+C:\Users\Bence-Laptop\source\repos\storageManagerUnitTest\obj\Debug\storageManagerUnitTest.dll
+C:\Users\Bence-Laptop\source\repos\storageManagerUnitTest\obj\Debug\storageManagerUnitTest.pdb

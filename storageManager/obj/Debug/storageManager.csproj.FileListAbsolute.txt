@@ -1,0 +1,7 @@
+C:\Users\Bence-Laptop\source\repos\storageManager\bin\Debug\storageManager.exe.config
+C:\Users\Bence-Laptop\source\repos\storageManager\bin\Debug\storageManager.exe
+C:\Users\Bence-Laptop\source\repos\storageManager\bin\Debug\storageManager.pdb
+C:\Users\Bence-Laptop\source\repos\storageManager\obj\Debug\storageManager.csproj.CoreCompileInputs.cache
+C:\Users\Bence-Laptop\source\repos\storageManager\obj\Debug\storageManager.exe
+C:\Users\Bence-Laptop\source\repos\storageManager\obj\Debug\storageManager.pdb
+C:\Users\Bence-Laptop\source\repos\storageManager\obj\Debug\storageManager.csproj.AssemblyReference.cache
